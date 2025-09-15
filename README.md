@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="left">Hi! Thanks for visiting. </h2>
+I am a hobby coder (and Minor in CS)
+I'm currently working on building more full-fledged webapp projects! Feel free to ask me about them.
+I'm taking Offensive Security in school and learning about CTFs through hands-on simulations.
+Looking for a front end web dev to collaborate (...unless it's me)
+Reach me through email
 
 ###
 
@@ -77,7 +82,5 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jabnow/jabnow/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jabnow/jabnow/output/pacman-contribution-graph.svg">
 </picture>
-
-<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph@2.0.0/dist/index.min.js"></script>
 
 ###
