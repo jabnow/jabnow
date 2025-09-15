@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="left">Hi! Thanks for visiting. </h2>
-I am a hobby coder (and Minor in CS)
+I am a hobby programmer (BSc Business Technology Mgmnt, Minor in CS & Math)
 I'm currently working on building more full-fledged webapp projects! Feel free to ask me about them.
 I'm taking Offensive Security in school and learning about CTFs through hands-on simulations.
 Looking for a front end web dev to collaborate (...unless it's me)
@@ -76,7 +76,7 @@ Reach me through email
 </div>
 
 ###
-
+This is my favorite food: I make great Lanzhou Beef Pulled Noodles.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jabnow/jabnow/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jabnow/jabnow/output/pacman-contribution-graph.svg">
