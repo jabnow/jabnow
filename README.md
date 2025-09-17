@@ -21,6 +21,8 @@ I'm taking Offensive Security in school and learning about CTFs through hands-on
 Looking for a front end web dev to collaborate (...unless it's me)
 Reach me through email
 
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 ###
 
 <div align="center">
@@ -76,7 +78,7 @@ Reach me through email
 </div>
 
 ###
-This is my favorite food: I make great Lanzhou Beef Pulled Noodles.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jabnow/jabnow/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jabnow/jabnow/output/pacman-contribution-graph.svg">
