@@ -21,7 +21,7 @@ I'm taking Offensive Security in school and learning about CTFs through hands-on
 Looking for a front end web dev to collaborate (...unless it's me)
 Reach me through email
 
-<h2 align="left">Hi 👋! My name is Joy and I'm a busi-dev from NYC </h2>
+<h2 align="left">Hi 👋! My name is Joy and I'm a business analyst-software developer from NYC </h2>
 
 ###
 
