@@ -28,7 +28,7 @@ Reach me through email
 
 # Join my team!
 discord: @ice4365
-linkedin: https://www.linkedin.com/in/wang-joy/
+linkedin: https://www.linkedin.com/in/wang-joy/ \
 email: joywang@nyu.edu
 
 # 2 truths and 1 lie
