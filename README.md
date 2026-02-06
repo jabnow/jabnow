@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi! Thanks for visiting. </h2>
+<h2 align="left">Thanks for visiting. </h2>
 I am a hobby programmer (BSc Business Technology Mgmnt, Minor in CS & Math)
 I'm currently working on building more full-fledged webapp projects! Feel free to ask me about them.
 I'm taking Offensive Security in school and learning about CTFs through hands-on simulations.
@@ -27,8 +27,11 @@ Reach me through email
 - Politifolio
 
 # Join my team!
+discord: @ice4365
+linkedin: https://www.linkedin.com/in/wang-joy/
+email: joywang@nyu.edu
 
-<h2 align="left">Hi 👋! My name is Joy and I'm a business analyst-software developer from NYC </h2>
+<!-- <h2 align="left">Hi 👋! My name is Joy and I'm a business analyst-software developer from NYC </h2>
 
 ###
 
@@ -75,7 +78,7 @@ Reach me through email
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   [<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />](@ice4365)
   [<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />](3jaows@gmail.com)
-  [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />](https://www.linkedin.com/in/wang-joy/)
+  [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />](https://www.linkedin.com/in/wang-joy/) -->
 </div>
 
 ###
