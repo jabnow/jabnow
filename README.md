@@ -32,7 +32,7 @@ email: joywang@nyu.edu
 
 # 2 truths and 1 lie
 - I have a pet turtle his name is Splash
-- I once fell off a mountain while snowboarding
+- I fell off a mountain while snowboarding
 - I have solo travelled to 20 different countries!
 
 <!-- <h2 align="left">Hi 👋! My name is Joy and I'm a business analyst-software developer from NYC </h2>
