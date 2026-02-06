@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="left">Thanks for visiting. </h2>
-I am a hobby programmer (BSc Business Technology Mgmnt, Minor in CS & Math)   
-I'm currently working on bringing my wip projects into mvp2 stages! Feel free to ask me about them.   
-Last semester I randomly took Grad Offensive Security and I really enjoyed the CTFs!   
+I am a hobby programmer (BSc Business Technology Mgmnt, Minor in CS & Math)   <br>
+I'm currently working on bringing my wip projects into mvp2 stages! Feel free to ask me about them.    <br>
+Last semester I randomly took Grad Offensive Security and I really enjoyed the CTFs!   <br>
 Now I'm looking for a job... ;-;
 
 # what I'm working on now
