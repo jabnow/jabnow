@@ -20,10 +20,10 @@ I'm currently working on bringing my wip projects into mvp2 stages! Feel free to
 Last semester I randomly took Grad Offensive Security and I really enjoyed the CTFs!   <br>
 Now I'm looking for a job... ;-;
 
-# what I'm working on now
-- Vyral
-- CircleUp
-- Politifolio
+# what I'm working on now (repos)
+- Vyral: elevating quality social media engagement, users are challenged to recognize virality markers in posts
+- CircleUp: how fully utilize your social network, career planning
+- Politifolio: how geopolitical events map to your portolio, when to act when to ignore the noise
 
 # Join my team!
 discord: @ice4365 \
