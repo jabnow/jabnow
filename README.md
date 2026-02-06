@@ -27,7 +27,7 @@ Reach me through email
 - Politifolio
 
 # Join my team!
-discord: @ice4365
+discord: @ice4365 \
 linkedin: https://www.linkedin.com/in/wang-joy/ \
 email: joywang@nyu.edu
 
