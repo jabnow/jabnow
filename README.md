@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="left">Thanks for visiting. </h2>
-I am a hobby programmer (BSc Business Technology Mgmnt, Minor in CS & Math)
-I'm currently working on building more full-fledged webapp projects! Feel free to ask me about them.
-I'm taking Offensive Security in school and learning about CTFs through hands-on simulations.
-Looking for a front end web dev to collaborate (...unless it's me)
-Reach me through email
+I am a hobby programmer (BSc Business Technology Mgmnt, Minor in CS & Math) \
+I'm currently working on bringing my wip projects into mvp2 stages! Feel free to ask me about them. \
+Last semester I randomly took Grad Offensive Security and I really enjoyed the CTFs! \
+Now I'm looking for a job... ;-;
 
 # what I'm working on now
 - Vyral
