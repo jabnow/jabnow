@@ -29,6 +29,7 @@ Now I'm looking for a job... ;-;
 discord: @ice4365 \
 linkedin: https://www.linkedin.com/in/wang-joy/ \
 email: joywang@nyu.edu
+website: https://academic-portfolio-pi.vercel.app/
 
 # 2 truths and 1 lie
 - I have a pet turtle his name is Splash
