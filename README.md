@@ -21,8 +21,8 @@ Last semester I randomly took Grad Offensive Security and I really enjoyed the C
 Now I'm looking for a job... ;-;
 
 # what I'm working on now (repos)
-- Vyral: elevating quality social media engagement, users are challenged to recognize virality markers in posts
-- CircleUp: how fully utilize your social network, career planning
+- Vyral: elevating quality social media engagement, users are challenged to recognize virality markers in posts \
+- CircleUp: how fully utilize your social network, career planning \
 - Politifolio: how geopolitical events map to your portolio, when to act when to ignore the noise
 
 # Join my team!
