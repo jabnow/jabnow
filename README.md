@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="left">Thanks for visiting. </h2>
-I am a hobby programmer (BSc Business Technology Mgmnt, Minor in CS & Math)   <br>
+I am a full stack programmer and data analyst (BSc Business Technology Mgmnt, Minor in CS & Math)   <br>
+interested in working with products / software to solve business questions  in optimization and process imvprovement <br>
 I'm currently working on bringing my wip projects into mvp2 stages! Feel free to ask me about them.    <br>
 Last semester I randomly took Grad Offensive Security and I really enjoyed the CTFs!   <br>
 Now I'm looking for a job... ;-;
