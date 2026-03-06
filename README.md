@@ -32,6 +32,7 @@ linkedin: https://www.linkedin.com/in/wang-joy/ \
 email: joywang@nyu.edu \
 website: https://academic-portfolio-pi.vercel.app/ \
 [devpost hackathon projects](https://devpost.com/jabnow?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav&_gl=1*8ldm15*_gcl_au*Mjg5OTc1MTk1LjE3NzE1NDY0MDA.*_ga*MTU5NDI1NDM2My4xNzU2ODQyMTk3*_ga_0YHJK3Y10M*czE3NzIxMzY2NjIkbzEyMCRnMCR0MTc3MjEzNjY2MiRqNjAkbDAkaDA.)
+<a href="https://github.com/jabnow/jabnow/blob/main/Joy_Wang_Resume.pdf" target="_blank">[1-pg-resume]</a>
 
 # 2 truths and 1 lie
 - I have a pet turtle his name is Splash
