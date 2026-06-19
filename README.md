@@ -26,6 +26,14 @@ Now I'm looking for a job... ;-;
 - CircleUp: how fully utilize your social network, career planning 
 - Politifolio: how geopolitical events map to your portolio, when to act when to ignore the noise
 
+# ft. some hackathons I enjoyed
+- Techstars Women
+- Technia @ UMD
+- Harvard-Duke AI Ivy+ league
+- Divhacks @ Columbia
+- TartanHacks @ CMU
+- Google @ NYU
+
 # Join my team!
 discord: @ice4365 \
 linkedin: https://www.linkedin.com/in/wang-joy/ \
